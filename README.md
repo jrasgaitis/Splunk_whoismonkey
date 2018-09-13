@@ -3,6 +3,8 @@ whois app for Splunk by Jack Rasgaitis
 
 Splunk add-on to perform whois requests and returns a JSON response. Extract IP addresses from your index data into a field name ip. This field is used as the input for external lookups.
 
+Requirements:
+Install pythonwhois (pip install pythonwhois)
 
 Installation
 

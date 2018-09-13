@@ -16,4 +16,4 @@ This creates a whois field for the events of the extracted ip field. The whois f
 
 Other example
 
-* | lookup whoisLookup ip| search ip="134.19.246.200"
+* | lookup whoisLookup ip| search ip="x.x.x.x"
